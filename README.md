@@ -4,7 +4,7 @@
 # Md Tanvir Alam
 
 ### Full-Stack Software Engineer  
-React · Next.js · Node.js · TypeScript · Laravel
+React · Next.js · Node.js · TypeScript · Laravel · Docker · Terraform · AWS Cloud · CI/CD
 
 <br/>
 
