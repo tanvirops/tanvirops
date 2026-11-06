@@ -1,7 +1,7 @@
 ![Software Engineer](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
 <div align="center">
   
-# Md Tanvir Alam
+# Tanvir Alam
 
 ### Software Engineer | DevOps 
 React · Next.js · Node.js · TypeScript · Laravel · Docker · Terraform · AWS Cloud · CI/CD
